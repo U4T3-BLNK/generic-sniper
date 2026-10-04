@@ -1,0 +1,3 @@
+# Generic Sniper relies strictly on Python 3 standard library
+# (os, sys, time, subprocess, urllib.request, json).
+# No external pip packages are required.

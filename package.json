@@ -1,0 +1,19 @@
+{
+  "name": "generic-sniper",
+  "version": "1.0.0",
+  "description": "High-performance guns.lol handle availability verification engine and Discord notification dispatch.",
+  "main": "checker.js",
+  "scripts": {
+    "start": "node checker.js",
+    "panel": "python3 mix_checker.py"
+  },
+  "keywords": [
+    "guns.lol",
+    "sniper",
+    "handle-checker",
+    "username-availability",
+    "discord-webhook"
+  ],
+  "author": "generic (U4T3-BLNK)",
+  "license": "MIT"
+}
