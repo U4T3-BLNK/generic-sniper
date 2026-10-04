@@ -53,21 +53,11 @@ O projeto conta com arquitetura híbrida:
 
 ## 🖥️ Demonstração Visual
 
-### Painel Principal (Python TUI)
-```text
-┌─ [ SYSTEM & STATUS ] ──────────────────────────────────────────┐
-│ Application Status : Active & Ready                            │
-│ Webhook Channel    : Configured                                │
-│ Execution Engine   : Node.js                                   │
-└────────────────────────────────────────────────────────────────┘
+<div align="center">
+  <img src="assets/preview.png" alt="Generic Sniper Execution Preview" width="100%" style="border-radius: 10px; box-shadow: 0 20px 40px rgba(0,0,0,0.6);" />
+</div>
 
-┌─ [ MAIN MENU ] ────────────────────────────────────────────────┐
-│ [1] Start Verification Engine                                  │
-│ [2] Configure Discord Webhook                                  │
-│ [3] Send Test Webhook Message                                  │
-│ [0] Exit                                                       │
-└────────────────────────────────────────────────────────────────┘
-```
+<br/>
 
 ### Notificação Discord (Embed Monocromático)
 ```text
